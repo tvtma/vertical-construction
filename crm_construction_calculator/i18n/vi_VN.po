@@ -1,0 +1,85 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* crm_construction_calculator
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-28 08:31+0000\n"
+"PO-Revision-Date: 2015-11-28 08:31+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_form
+msgid "Action"
+msgstr "Hành động"
+
+#. module: crm_construction_calculator
+#: field:crm.lead,calculation_hours:0
+msgid "Calculation hours"
+msgstr "Số giờ Tính toán"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_search
+#: view:crm.lead:crm_construction_calculator.construction_calculator_sale_lead_search
+#: field:crm.lead,calculator:0
+msgid "Calculator"
+msgstr "Calculator"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_search
+msgid "Calculator Action"
+msgstr "Calculator Action"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.lead_calculator_gantt_view
+#: model:ir.ui.menu,name:crm_construction_calculator.menu_calculator_planning
+msgid "Calculator Planning"
+msgstr "Calculator Planning"
+
+#. module: crm_construction_calculator
+#: field:crm.lead,calculator_next_action:0
+msgid "Calculator next action"
+msgstr "Calculator next action"
+
+#. module: crm_construction_calculator
+#: field:crm.lead,calculator_start_date:0
+msgid "Calculator start date"
+msgstr "Calculator start date"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_form
+msgid "Date"
+msgstr "Ngày"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_form
+msgid "Hours"
+msgstr "Giờ"
+
+#. module: crm_construction_calculator
+#: model:ir.model,name:crm_construction_calculator.model_crm_lead
+msgid "Lead/Opportunity"
+msgstr "Nguồn dẫn/Cơ hội"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_search
+msgid "My Opportunities"
+msgstr "Cơ hội của bạn"
+
+#. module: crm_construction_calculator
+#: view:crm.lead:crm_construction_calculator.construction_architect_sale_search
+msgid "Opportunities that are assigned to me"
+msgstr "Cơ hội được giao cho bạn"
+
+#. module: crm_construction_calculator
+#: model:ir.actions.act_window,name:crm_construction_calculator.lead_gantt_list_action
+msgid "Planning"
+msgstr "Lập kế hoạch"
+
